@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate at Simon Fraser University working with Dr. [Greg Mori](http://www.cs.sfu.ca/~mori). I work in Computer Vision with primary research interests in Video Understanding. Navigate to [Publications](_publications) page and CV for more details about my research experience.
+I'm a PhD Candidate at Simon Fraser University working with Dr. [Greg Mori](http://www.cs.sfu.ca/~mori). I work in Computer Vision with primary research interests in Video Understanding. Navigate to [Publications](/publications/) page and CV for more details about my research experience.
 
 Site-wide configuration
 ------
