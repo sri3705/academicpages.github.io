@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech, Electrical Engineering, Indian Institute of Technology Jodhpur, 2014
+* M.Sc., Computing Science, Simon Fraser University, 2016
+* Ph.D Candidate, Computing Science, Simon Fraser University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* September 2014-Present: Research Assistant
+  * Simon Fraser University
+  * Advisor: Dr. Greg Mori
+  * Worked on Activity Analysis, Question Answering using Images and Network Compression
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* September 2018-April 2019: Research Intern
+  * Borealis AI
+  * Worked on Describing Multi-Event Sequential data
+
+* May-December 2016: Research Intern
+  * Oracle labs
+  * Worked on Machine learning models for Network Security
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* January-June 2015: Research Intern
+  * Sportlogiq Inc.
+  * Worked on Group Activity Recognition models in sport videos
+ 
+Detailed CV
+===========
+
+Please find detailed CV [here] ().
