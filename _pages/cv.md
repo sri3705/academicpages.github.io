@@ -38,4 +38,4 @@ Work experience
 Detailed CV
 ===========
 
-Please find detailed CV [here](http://srikanth-sfu.github.io/files/resume.pdf).
+Please find my detailed CV [here](http://srikanth-sfu.github.io/files/resume.pdf).
