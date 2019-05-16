@@ -7,6 +7,7 @@ date: 2015-11-08
 image: /images/cvpr16.png
 bibtex: 'https://scholar.googleusercontent.com/scholar.bib?q=info:mtzWVEMOsegJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXN3lr-o9xF5JKNquW27RH9II0D8u3PQ4&scisf=4&ct=citation&cd=-1&hl=en'
 venue: 'CVPR 2016'
+project: 'https://github.com/mostafa-saad/deep-activity-rec'
 paperurl: 'https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ibrahim_A_Hierarchical_Deep_CVPR_2016_paper.pdf'
 citation: 'M.Ibrahim, S.Muralidharan, Z.Deng, A.Vahdat & G.Mori. A hierarchical deep temporal model for group activity recognition. CVPR 2016.'
 ---
