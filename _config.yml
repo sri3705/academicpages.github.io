@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Srikanth Muralidharan"
 description              : &description "PhD Candidate, VML lab, Simon Fraser University"

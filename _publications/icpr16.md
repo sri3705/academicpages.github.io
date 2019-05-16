@@ -7,7 +7,7 @@ date: 2016-01-01
 image: /images/icpr16.png
 venue: 'Journal 1'
 paperurl: 'http://www.sfu.ca/~smuralid/papers/ICPR2016.pdf'
-bibtex: 'https://scholar.googleusercontent.com/scholar.bib?q=info:z8jeO7PM25EJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXN3Odc0VLOLNO87oAUp-aOLe0BCj9Z10&scisf=4&ct=citation&cd=-1&hl=en'
+bibtex: 'https://scholar.googleusercontent.com/scholar.bib?q=info:z8jeO7PM25EJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXN3lZJ3pLhjjMqB0J3BVglAvL5kg-wH7&scisf=4&ct=citation&cd=-1&hl=en'
 citation: 'M.Khodabandeh, S.Muralidharan, A.Vahdat, N.Mehrasa, E.M.Pereira, S.I.Satoh  & G.Mori. Unsupervised learning of supervoxel embeddings for video segmentation. ICPR 2016 (Oral).'
 ---
 

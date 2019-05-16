@@ -7,7 +7,7 @@ date: 2015-04-30
 image: /images/bmvc15.png
 venue: 'BMVC 2015'
 paperurl: 'https://arxiv.org/pdf/1506.04191'
-bibtex: 'https://scholar.googleusercontent.com/scholar.bib?q=info:i0ZgfExXpTYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXN3O60SCi2HWYf4G9z_IcjSatOpme9ep&scisf=4&ct=citation&cd=-1&hl=en'
+bibtex: 'https://scholar.googleusercontent.com/scholar.bib?q=info:i0ZgfExXpTYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXN3l1t6Pt2YtTpKSE_TWn8aGuJcTQWl_&scisf=4&ct=citation&cd=-1&hl=en:q'
 citation: 'Z.Deng, M.Zhai, L.Chen, Y.Liu, S.Muralidharan, M.J.Roshtkhari & G.Mori. Deep structured models for group activity recognition. BMVC 2015.'
 ---
 

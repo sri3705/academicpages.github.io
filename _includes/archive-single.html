@@ -31,12 +31,13 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-
-	<table class="fixed">
-		<col width="20px" />
-    	<col width="500px" />
-    	<tr>
-				<td><img width="100" height="100" src="  {{post.image}}  "></td>
-        	<td>{{ post.citation }} [<a href=" {{ post.paperurl }} "><u>pdf</u></a>]</td>
-    	</tr>
-	</table>
+	{% if post.collection == 'publications' %}
+			<table class="fixed">
+				<col width="20px" />
+				<col width="500px" />
+				<tr>
+						<td><img width="100" height="100" src="  {{post.image}}  "></td>
+						<td>{{ post.citation }} [<a href=" {{ post.paperurl }} "><u>pdf</u></a>][<a href=" {{ post.bibtex }} "><u>bib</u></a>]</td>
+				</tr>
+			</table>
+    {% endif %}
