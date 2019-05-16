@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to My Personal Webpage!"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Srikanth Muralidharan"
 description              : &description "PhD Candidate, VML lab, Simon Fraser University"
