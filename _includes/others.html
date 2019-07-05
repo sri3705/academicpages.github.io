@@ -1,0 +1,28 @@
+{% include base_path %}
+
+<h3> Other Reports </h3>
+
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    
+	<table class="fixed">
+		<col width="20px" />
+		<col width="500px" />
+		<tr>
+				<td><img width="100" height="100" src="/images/eccv18_.jpg"></td>
+				<td> S.Muralidharan, F.Tung, G.Mori. PlacesQA: Towards Automatic Answering of Questions on the Web. 2018. [<a href="/files/eccv18.pdf"><u>pdf</u></a>]</td>
+		</tr>
+	</table>
