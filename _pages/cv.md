@@ -13,12 +13,16 @@ Education
 ======
 * B.Tech, Electrical Engineering, Indian Institute of Technology Jodhpur, 2014
 * M.Sc., Computing Science, Simon Fraser University, 2016
-* Ph.D Candidate, Computing Science, Simon Fraser University, 2019 (expected)
+* Ph.D, Computing Science, Simon Fraser University, 2020
 
 Work experience
 ======
 
-* September 2014-Present: Research Assistant
+* May 2020 - Present Researcher, Computer Vision
+  * Noah's Ark Lab Canada
+  * Research on Human Action Detection and Recognition
+  
+*  2014-2020: Research Assistant
   * Simon Fraser University
   * Advisor: Dr. Greg Mori
   * Worked on Activity Analysis, Question Answering using Images and Network Compression
