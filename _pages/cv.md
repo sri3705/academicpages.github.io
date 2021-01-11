@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Detailed CV
+===========
+
+Please find my detailed CV [here](http://srikanth-sfu.github.io/files/resume.pdf).
+
+
 Education
 ======
 * B.Tech, Electrical Engineering, Indian Institute of Technology Jodhpur, 2014
@@ -38,8 +44,3 @@ Work experience
 * January-June 2015: Research Intern
   * Sportlogiq Inc.
   * Worked on Group Activity Recognition models in sport videos
- 
-Detailed CV
-===========
-
-Please find my detailed CV [here](http://srikanth-sfu.github.io/files/resume.pdf).
